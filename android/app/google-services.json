@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042717778079",
+    "project_id": "bachelor-budget",
+    "storage_bucket": "bachelor-budget.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042717778079:android:fe31c85e6b96310b4602aa",
+        "android_client_info": {
+          "package_name": "com.bachelor_budget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldTPj0wOurBajgsNFau7NU_kYtiYzcEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
